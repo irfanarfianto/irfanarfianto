@@ -21,7 +21,7 @@
 <h2 align="center">Top Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanarfianto&hide_progress=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages" />
 </p>
 
 <h2 align="center">Visitor's Count</h2>
