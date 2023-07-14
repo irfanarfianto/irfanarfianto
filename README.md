@@ -15,20 +15,12 @@
 - 🌱 I’m currently learning exciting technologies.
 - 💬 Ask me about anything related to programming.
 - 📫 How to reach me: [irfanarfianto92@gmail.com](mailto:irfanarfianto92@gmail.com)
-<div class="d-flex">
-  <div class="justify-content-center">
-    <h2 align="center">GitHub Stats</h2>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=irfanarfianto&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </p>
-  </div>
-  <div class="justify-content-center">
-    <h2 align="center">Top Languages</h2>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanarfianto&layout=compact&theme=radical" alt="Top Languages" />
-    </p>
-</div>
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irfanarfianto&show_icons=true&theme=radical" height="200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanarfianto&layout=compact&theme=radical" height="200" alt="Top Languages" />
+</p>
+
 <h2 align="center">Visitor's Count</h2>
 
 <p align="center">
