@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning exciting technologies.
 - 💬 Ask me about anything related to programming.
 - 📫 How to reach me: [irfanarfianto92@gmail.com](mailto:irfanarfianto92@gmail.com)
-<div class="d-flex>
+<div class="d-flex">
   <div class="justify-content-center">
     <h2 align="center">GitHub Stats</h2>
     <p align="center">
@@ -27,6 +27,7 @@
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanarfianto&layout=compact&theme=radical" alt="Top Languages" />
     </p>
+</div>
 </div>
 <h2 align="center">Visitor's Count</h2>
 
