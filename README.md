@@ -14,24 +14,24 @@
 
 - 🌱 I’m currently learning exciting technologies.
 - 💬 Ask me about anything related to programming.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [email@example.com](mailto:irfanarfianto92@gmail.com)
 
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irfanarfianto&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <h2 align="center">Top Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanarfianto&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </p>
 
 <h2 align="center">Visitor's Count</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/irfanarfianto/count.svg" alt="Visitor Count" />
 </p>
 
 <p align="center">Thanks for visiting my profile! Let's connect and collaborate.</p>
