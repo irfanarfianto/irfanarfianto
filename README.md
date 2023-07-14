@@ -17,8 +17,8 @@
 - 📫 How to reach me: [irfanarfianto92@gmail.com](mailto:irfanarfianto92@gmail.com)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfanarfianto&show_icons=true&theme=radical" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanarfianto&layout=compact&theme=radical" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irfanarfianto&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanarfianto&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </p>
 
 <h2 align="center">Visitor's Count</h2>
