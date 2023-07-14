@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning exciting technologies.
 - 💬 Ask me about anything related to programming.
-- 📫 How to reach me: [email@example.com](mailto:irfanarfianto92@gmail.com)
+- 📫 How to reach me: [irfanarfianto92@gmail.com](mailto:irfanarfianto92@gmail.com)
 
 <h2 align="center">GitHub Stats</h2>
 
