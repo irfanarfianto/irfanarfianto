@@ -2,8 +2,12 @@
 
 <p align="center">
   <a href="#">Website</a> •
-  <a href="https://linkedin.com/in/irfanarfiantoo">LinkedIn</a> •
+  <a href="https://linkedin.com/in/irfanarfianto11">LinkedIn</a> •
   <a href="https://twitter.com/IrfanArfianto17">Twitter</a>
+</p>
+
+<p align="center">
+  <img src="https://your-image-url.com/your-image.png" alt="Your Name" width="500" />
 </p>
 
 <p align="center">A little bit about me:</p>
@@ -21,7 +25,7 @@
 <h2 align="center">Top Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanarfianto&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <h2 align="center">Visitor's Count</h2>
