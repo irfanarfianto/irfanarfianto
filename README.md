@@ -6,10 +6,6 @@
   <a href="https://twitter.com/IrfanArfianto17">Twitter</a>
 </p>
 
-<p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Your Name" width="500" />
-</p>
-
 <p align="center">A little bit about me:</p>
 
 - 🌱 I’m currently learning exciting technologies.
@@ -25,7 +21,7 @@
 <h2 align="center">Top Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanarfianto&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanarfianto&hide_progress=true" alt="Top Languages" />
 </p>
 
 <h2 align="center">Visitor's Count</h2>
