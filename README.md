@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Irfan Arfianto</h1>
 
 <p align="center">
-  <a href="#">Website</a> •
+  <a href="https://irfanarfianto.github.io/portfolio">Website</a> •
   <a href="https://linkedin.com/in/irfanarfianto11">LinkedIn</a> •
   <a href="https://twitter.com/IrfanArfianto17">Twitter</a>
 </p>
