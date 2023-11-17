@@ -6,10 +6,6 @@
   <a href="https://twitter.com/IrfanArfianto17">Twitter</a>
 </p>
 
-<p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Your Name" width="500" />
-</p>
-
 <p align="center">A little bit about me:</p>
 
 - 🌱 I’m currently learning exciting technologies.
