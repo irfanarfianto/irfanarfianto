@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Irfan Arfianto</h1>
+<h1 align="center">Hi bro! 👋 I'm Irfan Arfianto</h1>
 
 <p align="center">
   <a href="https://irfanarfianto.github.io/portfolio/">Portofolio</a> •
