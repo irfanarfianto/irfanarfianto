@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://irfanarfianto.github.io/portfolio">Website</a> •
   <a href="https://linkedin.com/in/irfanarfianto11">LinkedIn</a> •
-  <a href="https://twitter.com/IrfanArfianto17">Twitter</a>
+  <a href="https://instagram.com/irfannarfiantoo">Instagram</a>
 </p>
 
 <p align="center">A little bit about me:</p>
