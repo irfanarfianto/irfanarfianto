@@ -1,9 +1,8 @@
 <h1 align="center">Hi bro! 👋 I'm Irfan Arfianto</h1>
 
 <p align="center">
-  <a href="https://irfanarfianto.github.io/portfolio/">Portofolio</a> •
-  <a href="https://linkedin.com/in/irfanarfianto11">LinkedIn</a> •
-  <a href="https://instagram.com/irfanarfiantoo">Instagram</a>
+<a href="https://linkedin.com/in/irfanarfianto11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irfanarfianto11" height="30" width="40" /></a>
+<a href="https://instagram.com/irfanarfiantoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irfanarfiantoo" height="30" width="40" /></a>
 </p>
 
 <p align="center">A little bit about me:</p>
