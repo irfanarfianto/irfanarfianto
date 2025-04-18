@@ -8,13 +8,13 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/irfanarfianto11" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5" alt="LinkedIn Profile" />
   </a>
   <a href="https://instagram.com/irfanarfiantoo" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram Profile" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F" alt="Instagram Profile" />
   </a>
   <a href="mailto:irfanarfianto92@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-EA4335" alt="Email" />
   </a>
 </p>
 
