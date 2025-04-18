@@ -7,9 +7,15 @@
 ---
 
 <p align="left">
-  <a href="https://linkedin.com/in/irfanarfianto11" target="_blank"><img height="30" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Profile" /></a>
-  <a href="https://instagram.com/irfanarfiantoo" target="_blank"><img height="30" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram" alt="Instagram Profile" /></a>
-  <a href="mailto:irfanarfianto92@gmail.com"><img height="30" src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="https://linkedin.com/in/irfanarfianto11" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://instagram.com/irfanarfiantoo" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram Profile" />
+  </a>
+  <a href="mailto:irfanarfianto92@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
 
 ### Skills
