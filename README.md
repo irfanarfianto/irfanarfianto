@@ -1,56 +1,31 @@
-# Hi bro! 👋 I'm Irfan Arfianto
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Irfan%20Arfianto&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20%20Developer&descSize=30&descAlignY=85&section=header" />
 
----
+I'm Irfan Arfianto, a passionate developer specializing in crafting robust and user-centric web and mobile applications.
 
-I'm a passionate developer specializing in crafting robust and user-centric web and mobile applications. My journey in the world of programming has been driven by a desire to create innovative solutions that solve real-world problems.
-
-With a strong foundation in backend development using PHP and the Laravel framework, I excel at building scalable and efficient server-side logic. I'm also adept at frontend technologies, leveraging JavaScript and Tailwind CSS to create engaging and responsive user interfaces. My expertise extends to mobile app development using Flutter, where I utilize the BLoC pattern for effective state management.
-
-I possess a comprehensive understanding of database management systems, including MySQL and PostgreSQL, and I'm comfortable working with cloud-based platforms like Supabase and Firebase for seamless data storage and retrieval. My workflow is enhanced by tools like Webpack, which I use to optimize and bundle assets for web applications.
-
-I'm a firm believer in continuous learning and staying up-to-date with the latest advancements in technology. I'm always eager to explore new frameworks, libraries, and methodologies to expand my skill set and improve my development practices. Collaboration is also key to my approach; I thrive in team environments and enjoy sharing knowledge and contributing to collective success.
-
----
-
-<p align="left">
-  <a href="https://linkedin.com/in/irfanarfianto11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irfanarfianto11" height="30" width="40" /></a>
-  <a href="https://instagram.com/irfanarfiantoo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irfanarfiantoo" height="30" width="40" /></a>
-</p>
-
-I'm currently exploring new technologies and always eager to learn. Ask me anything related to programming!
+[![Mail Badge](https://img.shields.io/badge/-irfanarfianto92@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:irfanarfianto92@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-irfanarfiantoo-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/irfanarfiantoo)
+[![LinkedIn Badge](https://img.shields.io/badge/-irfanarfianto11-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfanarfianto11/)
 
 ### Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?perline=12&i=php,laravel,javascript,flutter,webpack,tailwind,mysql,postgres,supabase,firebase" />
-</p>
+![My Skills](https://skillicons.dev/icons?perline=12&i=php,laravel,javascript,flutter,webpack,tailwind,mysql,postgres,supabase,firebase)
 
 ### Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,git,npm,yarn,composer,github,netlify,vercel" />
-</p>
+![My Tools](https://skillicons.dev/icons?i=vscode,androidstudio,postman,git,npm,yarn,composer,github,netlify,vercel)
 
-Reach out to me at: [irfanarfianto92@gmail.com](mailto:irfanarfianto92@gmail.com)
+### Others
+
+![My Others](https://skillicons.dev/icons?i=npm,yarn,composer,github,netlify,vercel,stackoverflow)
 
 ### Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfanarfianto&show_icons=true&theme=radical" height="200" alt="GitHub Stats" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=irfanarfianto&theme=react&show_icons=true&)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanarfianto&layout=compact&theme=radical" height="200" alt="Top Languages" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=irfanarfianto&theme=react&card_width=470)
 
-<p align="left">
-  ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@irfanarfianto&langs_count=7&layout=compact&theme=react)
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanarfianto&card_width=495&langs_count=7&layout=compact&theme=react)
 
-### Visitor's Count
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@irfanarfianto&langs_count=7&layout=compact&theme=react)
 
-<p align="left">
-  <img src="https://profile-counter.glitch.me/irfanarfianto/count.svg" alt="Visitor Count" />
-</p>
-
-Thanks for visiting! Let's connect and collaborate.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
