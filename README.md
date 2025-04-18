@@ -28,13 +28,11 @@
 
 ### Statistics
 
-<table>
-  <tr>
-    <td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=irfanarfianto&show_icons=true&theme=radical" alt="GitHub Stats" /></td>
-    <td><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanarfianto&theme=radical" alt="GitHub Streak" /></td>
-    <td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanarfianto&layout=compact&theme=radical" alt="Top Languages" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=irfanarfianto&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanarfianto&theme=radical" alt="GitHub Streak" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanarfianto&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 <hr>
 
 <p align="left">
