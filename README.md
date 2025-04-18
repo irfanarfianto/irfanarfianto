@@ -51,6 +51,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanarfianto&layout=compact&theme=radical" height="200" alt="Top Languages" />
 </p>
 
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@irfanarfianto&langs_count=7&layout=compact&theme=react" height="200" alt="Top Languages" />
+</p>
+
 <h3>Visitor's Count</h3>
 
 <p>
