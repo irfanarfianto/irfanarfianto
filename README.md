@@ -13,7 +13,7 @@ Passionate about Flutter, Supabase, and building real-world solutions for small 
 ---
 
 ### 🛠️ Skills
-<img src="https://skillicons.dev/icons?i=flutter,laravel,javascript,tailwind,mysql,postgres,supabase,firebase&perline=9" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,javascript,tailwind,mysql,postgres,supabase,firebase&perline=9" />
 
 ### ⚙️ Tools
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,git,github,vercel,netlify&perline=8" />
